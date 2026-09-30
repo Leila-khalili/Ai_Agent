@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 850" width="1500" height="1400" font-family="Segoe UI, Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5ZTkyNDg1OS05Zjk0LTRhYWYtYjExZi03YzQwMzA0OGM3OWIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaF/uUKi4OpHJoA1DHcH/XBQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5MWRkZDQ4My1lYzc2LTRkMjctODY5OS01NDQyYWZlMDBkN2JscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoOrg3U4nOuT5Y/6egNlIq5QAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggC5NH1rFSomu9RIkuC8TdP3WcNZTK6jYpSvVMog0jG7ekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHFVD8Tz4YJkJ4FK+hHZ4pMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDdT6lNdj/66ORBFsLgVf5uJ9nQjPxm3uEVtzCALDVJDmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjNZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjllOTI0ODU5LTlmOTQtNGFhZi1iMTFmLTdjNDAzMDQ4Yzc5Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmIwODlhZmQxLWJjYWEtNDI1Yy04ZTRmLTExMTY2ODc0YjJkOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCALk0fWsVKia71EiS4LxN0/dZw1lMrqNilK9UyiDSMbt6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfyaTAvDoKLSLHxhEUB4LJxKaGiRgpmi9oqYkJadkSmyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggnrLuKeRPJhdkn1rzOcTGfzPWnKG1p39rNDnix00tZ5N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAnhHpobxVhIsgB6Sceb0B7hVTxqHo2M6QsfReWCOJ2IsIhDFcQaYpixs2NVd5v3JSuAW2nJtOSnT/1VsYIIaVk=</c2pa:manifest></metadata>
+  <title>AI agent workflows - Stage 1, 2 and 3</title>
+  <defs>
+    <style>
+      /* ---- Edit colours and fonts here ---- */
+      .panel      { fill:#f8fafc; stroke:#e2e8f0; stroke-width:1.5; }
+      .panel-title{ font-size:22px; font-weight:700; fill:#0f172a; }
+      .node       { fill:#f1f5f9; stroke:#64748b; stroke-width:1.5; }
+      .agent      { fill:#dbeafe; stroke:#2563eb; stroke-width:2; }
+      .tool       { fill:#ede9fe; stroke:#7c3aed; stroke-width:1.5; }
+      .data       { fill:#ffffff; stroke:#64748b; stroke-width:1.5; stroke-dasharray:6 4; }
+      .final      { fill:#dcfce7; stroke:#16a34a; stroke-width:2; }
+      .label      { font-size:16px; fill:#0f172a; text-anchor:middle; dominant-baseline:central; }
+      .sub        { font-size:13px; fill:#475569; text-anchor:middle; dominant-baseline:central; }
+      .arrow      { fill:none; stroke:#475569; stroke-width:1.8; marker-end:url(#head); }
+      .line       { fill:none; stroke:#475569; stroke-width:1.8; }
+    </style>
+    <marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#475569"/>
+    </marker>
+  </defs>
+--------------------------
+  <rect width="1500" height="1100" fill="#ffffff"/>
+--------------------------------
+  <g id="stage1">
+    <rect class="panel" x="20" y="20" width="600" height="1050" rx="14"/>
+    <text class="panel-title" x="44" y="62">Stage 1 — Agent architecture</text>
+    <!-- nodes -->
+    <g id="s1-user">
+      <rect class="node" x="200" y="100" width="240" height="44" rx="8"/>
+      <text class="label" x="320" y="122"> RESEARCHER</text>
+    </g>
+    <g id="s1-agent">
+      <rect class="agent" x="200" y="180" width="240" height="60" rx="8"/>
+      <text class="label" x="320" y="201">AI AGENT</text>
+      <text class="sub" x="320" y="222">CodeAgent</text>
+    </g>
+    <g id="s1-tool1">
+      <rect class="tool" x="35" y="320" width="170" height="56" rx="8"/>
+      <text class="label" x="120" y="339">Parse Paper</text>
+      <text class="sub" x="120" y="360">Tool</text>
+    </g>
+    <g id="s1-tool2">
+      <rect class="tool" x="235" y="320" width="170" height="56" rx="8"/>
+      <text class="label" x="320" y="339">Calculate</text>
+      <text class="sub" x="320" y="360">Tool</text>
+    </g>
+---------------------------------
+    <g id="s1-tool3">
+      <rect class="tool" x="435" y="320" width="170" height="56" rx="8"/>
+      <text class="label" x="520" y="339">Validate and Verification </text>
+      <text class="sub" x="520" y="360"> V&amp;V Tool</text>
+    </g>
+    <g id="s1-data1">
+      <rect class="data" x="35" y="430" width="170" height="96" rx="8"/>
+      <text class="label" x="120" y="449">Read Paper(Extract:)</text>
+      <text class="sub" x="120" y="470">Key Contributions </text>
+      <text class="sub" x="120" y="490">Methodology and  Challenges</text>
+
+      <text class="sub" x="120" y="510">Applications</text>
+-----------------------------------------
+
+    </g>
+    <g id="s1-data2">
+      <rect class="data" x="235" y="430" width="170" height="96" rx="8"/>
+      <text class="label" x="320" y="450">Extract equations</text>
+      <text class="sub" x="320" y="480">Assumptions mining</text>
+      <text class="sub" x="320" y="510">Limitation Analysis</text>
+    </g>
+--------------------
+    <g id="s1-data3">
+      <rect class="data" x="435" y="430" width="170" height="96" rx="8"/>
+      <text class="label" x="520" y="449">Execute Benchmark</text>
+      <text class="sub" x="520" y="480">Compares results</text>
+    </g>
+    <g id="s1-report">
+      <rect class="node" x="200" y="570" width="240" height="44" rx="8"/>
+      <text class="label" x="320" y="592">Structured Report</text>
+    </g>
+    <g id="s1-pdf">
+      <rect class="final" x="200" y="660" width="240" height="44" rx="8"/>
+      <text class="label" x="320" y="682">PDF</text>
+    </g>
+    <!-- connectors -->
+    <path class="arrow" d="M320 144 V178"/>
+    <path class="arrow" d="M320 240 V318"/>
+    <path class="arrow" d="M320 240 V282 H120 V318"/>
+    <path class="arrow" d="M320 240 V282 H520 V318"/>
+    <path class="arrow" d="M120 376 V428"/>
+    <path class="arrow" d="M320 376 V428"/>
+    <path class="arrow" d="M520 376 V428"/>
+    <path class="arrow" d="M120 525 V538 H320 V568"/>
+    <path class="arrow" d="M520 525 V538 H320 V568"/>
+    <path class="arrow" d="M320 525 V568"/>
+    <path class="arrow" d="M320 614 V658"/>
+  </g>
+---------------------------------------------
+  <g id="stage2">
+    <rect class="panel" x="650" y="20" width="400" height="1050" rx="14"/>
+    <text class="panel-title" x="674" y="62">Stage 2 — What I want to develop</text>
+    <g id="stage2-n1">
+      <rect class="node" x="705" y="100" width="290" height="46" rx="8"/>
+      <text class="label" x="850.0" y="123">Build the Virtual Model</text>
+    </g>
+    <g id="stage2-n2">
+      <rect class="agent" x="705" y="182" width="290" height="46" rx="8"/>
+      <text class="label" x="850.0" y="205">Agent (Build off-line Model)</text>
+    </g>
+---------------------------------
+
+-------------------------------
+    <g id="stage2-n3">
+      <rect class="node" x="705" y="264" width="290" height="96" rx="8"/>
+      <text class="label" x="850.0" y="287"> Generate VS-code by Python code </text>
+      <text class="sub"   x="850.0" y="317"> Run Calculate tool</text>
+
+    </g>
+
+-----------------------------
+
+    <g id="stage2-n4">
+      <rect class="node" x="705" y="412" width="290" height="129" rx="8"/>
+      <text class="label" x="850.0" y="451">Run computational model in VS</text>
+
+      <text class="sub" x="850.0" y="491">Calls MATLAB /Simulink Model</text>
+
+      <text class="sub" x="850.0" y="519">Generate FEM model</text>
+    </g>
+-----------------------------
+
+    <g id="stage2-n7">
+      <rect class="node" x="705" y="592" width="290" height="46" rx="8"/>
+      <text class="label" x="850.0" y="615">Real Machine Data</text>
+    </g>
+-----------------
+    <g id="stage2-n8">
+      <rect class="node" x="705" y="674" width="290" height="96" rx="8"/>
+      <text class="label" x="850.0" y="697">Verification</text>
+      <text class="sub"   x="850.0" y="717">Measured Vs.Predicted</text>
+      <text class="sub"   x="850.0" y="737">Deviation detected</text>
+
+
+    </g>
+------------------------------
+    <g id="stage2-n9">
+      <rect class="node" x="705" y="806" width="290" height="96" rx="8"/>
+      <text class="label" x="850.0" y="819">Human review</text>
+      <text class="sub" x="850.0" y="839">investigation causes ( Investigation Agent)</text>
+    </g>
+-------------------------------
+    <g id="stage2-n10">
+      <rect class="agent" x="705" y="806" width="290" height="96" rx="8"/>
+      <text class="label" x="850.0" y="819">Human review</text>
+      <text class="sub" x="850.0" y="849">investigation causes</text>
+      <text class="sub" x="850.0" y="869">( Discrepancy Detection Agent)</text>
+    </g>
+
+----------------------
+
+    <g id="stage2-n10">
+      <rect class="final" x="705" y="946" width="290" height="96" rx="8"/>
+      <text class="label" x="850.0" y="976">Update Model</text>
+
+    </g>
+
+
+
+    <path class="arrow" d="M850 146 V180"/>
+    <path class="arrow" d="M850 228 V262"/>
+   
+    <path class="arrow" d="M850 362 V405"/>
+
+ 
+    <path class="arrow" d="M850 538 V595"/>
+
+    <path class="arrow" d="M850 638 V672"/>
+
+    <path class="arrow" d="M850 768 V804"/>
+
+    <path class="arrow" d="M850 898 V944"/>
+  </g>
+
+-------------------------------------
+  <g id="stage3">
+    <rect class="panel" x="1080" y="20" width="400" height="1050" rx="14"/>
+    <text class="panel-title" x="1104" y="62">Stage 3 — Longer-term vision</text>
+    <g id="stage3-n1">
+      <rect class="node" x="1135" y="100" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="123">V&amp;V( check Reliability)</text>
+    </g>
+    <g id="stage3-n2">
+      <rect class="agent" x="1135" y="182" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="205">AI Agent(V&amp;V)</text>
+    </g>
+    <g id="stage3-n3">
+      <rect class="node" x="1135" y="264" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="287">Model generation</text>
+    </g>
+    <g id="stage3-n4">
+      <rect class="node" x="1135" y="346" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="369">Operating Condition</text>
+    </g>
+    <g id="stage3-n5">
+      <rect class="node" x="1135" y="428" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="451">Experimental measurements</text>
+    </g>
+    <g id="stage3-n6">
+      <rect class="node" x="1135" y="510" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="533">Continuous Model updating</text>
+    </g>
+    <g id="stage3-n7">
+      <rect class="final" x="1135" y="592" width="290" height="46" rx="8"/>
+      <text class="label" x="1280.0" y="615">Validated Digital Twin</text>
+    </g>
+    <path class="arrow" d="M1280 146 V180"/>
+    <path class="arrow" d="M1280 228 V262"/>
+    <path class="arrow" d="M1280 310 V344"/>
+    <path class="arrow" d="M1280 392 V426"/>
+    <path class="arrow" d="M1280 474 V508"/>
+    <path class="arrow" d="M1280 556 V590"/>
+  </g>
+</svg>
